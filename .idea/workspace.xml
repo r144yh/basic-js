@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43b4f381-f14d-412c-b471-f04642d4bb5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple-chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple-chain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,9 @@
       <workItem from="1603013175197" duration="21000" />
       <workItem from="1604063361869" duration="23641000" />
       <workItem from="1604140224259" duration="26632000" />
-      <workItem from="1604225225187" duration="4271000" />
+      <workItem from="1604225225187" duration="6615000" />
+      <workItem from="1604236977523" duration="70000" />
+      <workItem from="1604252320279" duration="1698000" />
     </task>
     <servers />
   </component>
